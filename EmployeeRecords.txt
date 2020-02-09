@@ -1,0 +1,3 @@
+Jai,Shanata,42069,jshanata@cornell,l;kj,lkj,12,Staff,lkj,Bi-Weekly,123
+Ajit,Chavan,134,achavan@cornellcollege.edu,Chicago,Mom,29,Staff,Computer Science,Bi-Weekly,75000
+Mark,Kendall,13,lkj,lkj,lkj,123,Faculty,lkj,Weekly,13
